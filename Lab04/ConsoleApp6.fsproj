@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="zad5.fs" />
+    <Compile Include="zad4.fs" />
+    <Compile Include="zad3.fs" />
+    <Compile Include="zad2.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
